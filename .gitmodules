@@ -1,0 +1,6 @@
+[submodule "MovieBooking-Frontend"]
+	path = MovieBooking-Frontend
+	url = https://github.com/iknageswar03/MovieBooking-Frontend.git
+[submodule "MovieBooking_Backend"]
+	path = MovieBooking_Backend
+	url = https://github.com/iknageswar03/MovieBooking_Backend.git
